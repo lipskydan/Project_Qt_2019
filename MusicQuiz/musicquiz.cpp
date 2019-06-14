@@ -48,7 +48,9 @@ void MusicQuiz::DeleteMelody() {
 }
 
 void MusicQuiz::PlayRandomSong() {
-    QString sound_name = "/Users/danial/MusicQuiz/";
+    QString sound_name = "/Users/danial/Documents/GitHub/Project_Qt_2019/MusicQuiz/";
+
+    //Users/danial/Documents/GitHub/Project_Qt_2019/MusicQuiz/musicquiz.cpp
 
     int RandomNumber = -1;
 
